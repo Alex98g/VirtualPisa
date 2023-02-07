@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="task3K" size="5.000000 5.000000" />
+    <ImageTarget name="task6P" size="5.000000 5.000000" />
+    <ImageTarget name="task5P" size="5.000000 5.000000" />
+    <ImageTarget name="task5K" size="5.000000 5.000000" />
+    <ImageTarget name="task4I" size="5.000000 5.000000" />
+    <ImageTarget name="task4" size="5.000000 5.000000" />
+    <ImageTarget name="task2" size="5.000000 5.000000" />
+    <ImageTarget name="task1and2" size="5.000000 5.000000" />
+    <ImageTarget name="cube4_scaled" size="5.000000 4.236641" />
+    <ImageTarget name="cube3_scaled" size="5.000000 4.172932" />
+    <ImageTarget name="cube2_scaled" size="5.000000 4.141791" />
+    <ImageTarget name="cube1_scaled" size="5.000000 4.302326" />
+  </Tracking>
+</QCARConfig>

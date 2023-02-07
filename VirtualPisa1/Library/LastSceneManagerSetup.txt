@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/sprites 1/Change_Relationships/Communication_on_the_Internet/Communication_on_the_Internet.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

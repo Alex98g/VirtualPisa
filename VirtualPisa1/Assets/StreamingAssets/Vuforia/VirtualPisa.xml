@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="b_scaled" size="5.000000 3.345521" />
+    <ImageTarget name="cube4" size="5.000000 4.236641" />
+    <ImageTarget name="cube3" size="5.000000 4.172932" />
+    <ImageTarget name="cube2" size="5.000000 4.141791" />
+    <ImageTarget name="cube1" size="5.000000 4.302326" />
+    <ImageTarget name="zad3" size="5.000000 8.888889" />
+    <ImageTarget name="Zad1" size="5.000000 6.666667" />
+  </Tracking>
+</QCARConfig>

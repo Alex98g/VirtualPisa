@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: afc88a7dd1ddd6c4ba5b7faf37458f6b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CharterC
+  fontNames:
+  - CharterC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 18889467093fe014bbce9943139765c6, type: 3}
+  - {fileID: 12800000, guid: 10e04ae8af76efa48871a699e484e04c, type: 3}
+  - {fileID: 12800000, guid: 806f326b7fbd7c24abc29a056662ede3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
